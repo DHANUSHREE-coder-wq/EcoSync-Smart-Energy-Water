@@ -1,0 +1,6 @@
+{
+  "name": "EcoSync: Smart Energy & Water",
+  "description": "Real-time energy and water consumption dashboard, off-peak tariff automations, and utility savings tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
